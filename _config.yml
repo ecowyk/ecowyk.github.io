@@ -6,6 +6,7 @@ description: You'll never walk alone.
 author: YiKai Wang
 email: eckowyk@gmail.com
 avator: /icon.jpg
+location: Wuhan
 
 plugins:
   - jekyll-seo-tag
