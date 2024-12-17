@@ -14,5 +14,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-
 logo: icon.png
