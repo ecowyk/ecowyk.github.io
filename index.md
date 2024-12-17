@@ -1,4 +1,4 @@
-# This is a NOTEBOOK to experience and ralated work
+# This is a NOTEBOOK for experiences and ralated work
 
 > Writer: Eco
 > 
