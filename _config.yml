@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-logo: icon.png
+logo: ./icon.png
 social: 
   name: Yikai Wang
   links:
