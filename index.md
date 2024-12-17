@@ -1,5 +1,4 @@
-# This is a NOTEBOOK for experiences and ralated work
-
+# Eco's personal Homepage
 > Writer: Eco
 > 
 > Email: eckowyk@gmail.com
