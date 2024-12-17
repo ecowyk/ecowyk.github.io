@@ -7,7 +7,7 @@ author: YiKai Wang
 email: eckowyk@gmail.com
 avator: ./icon.png
 location: Wuhan
-skin: sunrise
+skin: sunset
 
 plugins:
   - jekyll-seo-tag
