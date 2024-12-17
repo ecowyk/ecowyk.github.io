@@ -2,4 +2,12 @@ plugins:
   - jekyll-remote-theme
 remote_theme: ngzhio/jekyll-theme-hamilton
 title: Eco's Homepage
-description: Contact me: eckowyk@gmail.com
+description: You'll never walk alone.
+author: YiKai Wang
+email: eckowyk@gmail.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
