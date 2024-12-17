@@ -5,7 +5,7 @@ title: Eco's Homepage
 description: You'll never walk alone.
 author: YiKai Wang
 email: eckowyk@gmail.com
-avator: /icon.jpg
+avator: ./icon.png
 location: Wuhan
 
 plugins:
@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-logo: icon.jpg
+logo: icon.png
 social: 
   name: Yikai Wang
   links:
