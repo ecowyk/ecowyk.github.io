@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Homepage of Eco"
 author_profile: true
 redirect_from:
   - /about/
