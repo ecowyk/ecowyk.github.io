@@ -28,8 +28,8 @@ author:
   name: "Eco Wang"
   pronouns: # example: "she/her"
   bio: |
-    "Wuhan University, B.Eng.
-    Shanghai Jiaotong University, Ph.D."
+    Wuhan University, B.Eng.
+    Shanghai Jiaotong University, Ph.D.
   location: "Shaanxi, China"
   employer: "Shanghai Jiaotong University"
   uri: # URL
@@ -81,6 +81,8 @@ author:
   xing: # Username
   youtube: # Username
   zhihu: # Username
+  xiaohongshu: "Marigold."
+  tiktok: "Marigold."
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
