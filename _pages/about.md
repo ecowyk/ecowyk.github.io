@@ -11,4 +11,11 @@ I am currently an undergraduate student majoring in Spatial Information and Digi
 
 During my undergraduate studies, I have actively participated in research projects and academic competitions in the fields of computer vision and robotics, winning several awards at the provincial and national levels. These experiences have equipped me with a solid foundation in both theoretical knowledge and practical skills.
 
-**Research Interests:** 3D Computer Vision, SLAM and Localization, Autonomous Systems, Artificial Intelligence, Japanese Animation, Galgame
+## Research Interests
+
+- 3D Computer Vision
+- SLAM and Localization
+- Autonomous Systems
+- Artificial Intelligence
+- Japanese Animation
+- Galgame

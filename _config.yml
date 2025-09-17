@@ -27,7 +27,8 @@ author:
   avatar: "taki.png"
   name: "Eco Wang"
   pronouns: # example: "she/her"
-  bio: "Wuhan University, B.Eng.
+  bio: |
+    "Wuhan University, B.Eng.
     Shanghai Jiaotong University, Ph.D."
   location: "Shaanxi, China"
   employer: "Shanghai Jiaotong University"
@@ -63,14 +64,14 @@ author:
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: # Username
+  instagram: "eco_wyk"
   lastfm: # Username
   linkedin: # Username
   mastodon: # URL
   medium: # URL
   pinterest: # Username
   soundcloud: # Username
-  steam: # Username
+  steam: "eco"
   telegram: # URL
   tumblr: # Username
   twitter: # Username for X / Twitter
