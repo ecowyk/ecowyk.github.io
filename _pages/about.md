@@ -17,5 +17,4 @@ During my undergraduate studies, I have actively participated in research projec
 - SLAM and Localization
 - Autonomous Systems
 - Artificial Intelligence
-- Japanese Animation
-- Galgame
+- Japanese Animation & Galgame
