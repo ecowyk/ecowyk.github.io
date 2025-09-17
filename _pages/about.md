@@ -13,8 +13,6 @@ During my undergraduate studies, I have actively participated in research projec
 
 ## Research Interests
 
-- 3D Computer Vision
-- SLAM and Localization
-- Autonomous Systems
-- Artificial Intelligence
+- 3D Computer Vision & SLAM
+- Autonomous Systems & AI
 - Japanese Animation & Galgame
