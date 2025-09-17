@@ -11,7 +11,7 @@ redirect_from:
 
 **B.S. in Spatial Informatics & Digitalized Technology**, Wuhan University, School of Remote Sensing and Information Engineering, 2022-2026
 
-- Advisor: Dr. Zhi Gao, [Details](https://gaozhinuswhu.com/)
+- Advisor: Prof. Zhi Gao, [Details](https://gaozhinuswhu.com/)
 
 <div style="clear: both;"></div>
 
@@ -19,6 +19,6 @@ redirect_from:
 
 **Ph.D. in Control Science and Engineering**, Shanghai Jiao Tong University, School of Automation and Intelligent Sensing, 2026-Present
 
-- Advisor: Dr. Jie Yang, [Details](http://www.pami.sjtu.edu.cn/jieyang/)
+- Advisor: Prof. Jie Yang, [Details](http://www.pami.sjtu.edu.cn/jieyang/)
 
 <div style="clear: both;"></div>
